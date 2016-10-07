@@ -13,7 +13,7 @@ for people from Spain but the information of the websites is in English:
 
 3.*[Noticias](http://www.nydailynews.com)*
 
-
+Also you have some pictures from the city and a table with more information
 
 
 
