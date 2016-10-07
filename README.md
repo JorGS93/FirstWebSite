@@ -5,7 +5,7 @@ This site will threat information about **The city of New York**.
 
 In the *site* you can get some *links* with the titles in Spanish
 
-for people from Spain but the information on the websites is in English:
+for people from Spain but the information of the websites is in English:
 
 1.*[Información turística](http://www.nycgo.com/)*
 
