@@ -7,9 +7,9 @@ In the *site* you can get some *links*:
 
 1.*[Información turística](http://www.nycgo.com/)*
 
-2.
+2.*[Información básica](https://es.wikipedia.org/wiki/Nueva_York)*
 
-3.
+3.*[Noticias](http://www.nydailynews.com)*
 
 
 
